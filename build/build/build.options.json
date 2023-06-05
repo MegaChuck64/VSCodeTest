@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "C:\\Users\\cjsco\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "Y:\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "Y:\\source\\2023\\January\\Arduino\\VSCodeTest\\src"
+}
